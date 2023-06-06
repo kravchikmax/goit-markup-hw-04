@@ -551,7 +551,7 @@ img {
   fill: var(--light-background);
 }
 
-.fs {
+.footer-section {
   display: flex;
   align-items: baseline;
 }
