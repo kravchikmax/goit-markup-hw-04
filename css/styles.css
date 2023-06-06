@@ -213,6 +213,7 @@ img {
   margin-top: 48px;
   border: none;
   border-radius: 4px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); 
 }
 
 .hero-button:hover,
@@ -378,6 +379,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--text-color);
   text-align: center;
+  margin-bottom: 8px;
 }
 
 .worker-name {
